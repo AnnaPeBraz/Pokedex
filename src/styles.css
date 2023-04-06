@@ -14,3 +14,7 @@ nav {
   justify-content: space-evenly;
   align-items: center;
 }
+
+.searchbar-container {
+  display: flex
+}
